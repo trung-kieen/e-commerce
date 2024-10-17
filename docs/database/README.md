@@ -1,4 +1,4 @@
 
-![[../../assets/database_diagram]]
-![[../../assets/ecommercial-erd.png]]
+![database](../../assets/database_diagram.png)
+![erd](../../assets/ecommercial-erd.png)
 
